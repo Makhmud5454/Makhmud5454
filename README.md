@@ -1,3 +1,4 @@
+![logo](https://github.com/Makhmud5454/Makhmud5454/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Naimjonov Makhmudjon</h1>
 <h3 align="center">A passionate frontend and backend developer from Uzbekistan</h3>
 
