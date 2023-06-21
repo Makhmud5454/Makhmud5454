@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Naimjonov Makhmudjon</h1>
 <h3 align="center">A passionate frontend and backend developer from Uzbekistan</h3>
 
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-rounded-edges-gif-26214286&psig=AOvVaw1spuiA7H_jo0_t37tV1zE5&ust=1687445298413000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjK9t7N1P8CFQAAAAAdAAAAABAH">
+<img align="right" alt="coding" width="400px" src="https://github.com/Makhmud5454/Makhmud5454/blob/main/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makhmud5454&label=Profile%20views&color=0e75b6&style=flat" alt="makhmud5454" /> </p>
 
